@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sakshi Vishnoi 👋
 
-<!--
-**sakshiv3107/sakshiv3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech (IT) Student
+💻 Flutter Developer | Problem Solver
+📍 Meerut, India
 
-Here are some ideas to get you started:
+I enjoy building **user-centric applications** and strengthening my fundamentals in **Data Structures & Algorithms**, **Flutter development**, and **UI/UX design**. I value clean code, continuous learning, and collaborative teamwork.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+* **Languages:** C++, Dart, Java, Python, SQL, JavaScript
+* **Mobile & Web:** Flutter, HTML, CSS
+* **Tools:** Git, GitHub, VS Code, Android Studio
+* **Design:** Figma, Canva
+* **Core CS:** DSA, OOP, Problem Solving
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Flutter concepts
+* System design fundamentals
+* Optimizing DSA solutions
+
+---
+
+## 📫 Connect
+
+* LinkedIn: [https://linkedin.com/in/sakshi-vishnoi](https://linkedin.com/in/sakshi-vishnoi)
+* GitHub: [https://github.com/sakshiv3107](https://github.com/sakshiv3107)
+* Email: [sakshi.vishnoi3107@gmail.com](mailto:sakshi.vishnoi3107@gmail.com)
+
+---
+
+⭐ *Open to internships and growth opportunities*
