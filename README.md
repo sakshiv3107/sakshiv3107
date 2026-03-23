@@ -28,8 +28,8 @@ I enjoy building **user-centric applications** and strengthening my fundamentals
 
 ## 📫 Connect
 
-* LinkedIn: [https://linkedin.com/in/sakshi-vishnoi](https://linkedin.com/in/sakshi-vishnoi)
-* Email: [sakshi.vishnoi3107@gmail.com](mailto:sakshi.vishnoi3107@gmail.com)
+- 🔗 LinkedIn: [sakshi-vishnoi](https://www.linkedin.com/in/sakshi-vishnoi-7770b2315/)
+- 📧 Email: [sakshi.vishnoi3107@gmail.com](mailto:sakshi.vishnoi3107@gmail.com)
 
 ---
 
