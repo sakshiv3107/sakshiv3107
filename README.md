@@ -142,15 +142,6 @@ I approach every project with a **product-first mindset** — obsessing over use
 
 ---
 
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshiv3107&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest"/>
-</div>
-
----
 
 <div align="center">
   <h2>📈 Contribution Activity</h2>
@@ -163,15 +154,10 @@ I approach every project with a **product-first mindset** — obsessing over use
 ---
 
 <div align="center">
-  <h2>🐍 Contribution Graph</h2>
+  <h2>📅 Contribution Heatmap</h2>
 </div>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakshiv3107/sakshiv3107/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakshiv3107/sakshiv3107/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sakshiv3107/sakshiv3107/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://ghchart.rshah.org/7C3AED/sakshiv3107" alt="Sakshi's GitHub Contribution Heatmap"/>
 </div>
 
 
