@@ -35,7 +35,7 @@
   <h2>⚡ About Me</h2>
 </div>
 
-I am a passionate **Flutter Developer** and **Mobile Engineer** pursuing my B.Tech in Computer Science. I specialize in building **cross-platform mobile applications** with pixel-perfect UI, smooth animations, and production-grade architecture. My engineering philosophy centers on crafting experiences that are not just functional, but genuinely delightful.
+I am a passionate **Flutter Developer** and **Mobile Engineer** pursuing my B.Tech in Information Technology. I specialize in building **cross-platform mobile applications** with pixel-perfect UI, smooth animations, and production-grade architecture. My engineering philosophy centers on crafting experiences that are not just functional, but genuinely delightful.
 
 I approach every project with a **product-first mindset** — obsessing over user experience, performance optimization, and clean, maintainable code. From state management to native integrations, I build Flutter apps that scale.
 
